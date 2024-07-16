@@ -3,7 +3,7 @@
     {
       "route": "/*",
       "redirect": "https://:host/:path",
-      "statusCode": 301
+      "statusCode": 302
     }
   ],
   "globalHeaders": {
